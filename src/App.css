@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+body {
+
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+}
+
+.login {
+  width: 400px;
+  height: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 14%;
+  background-color: white;
+  padding: 40px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.input {
+  border: 1px solid lightgray;
+  min-height: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 10px 10px;
+  width: 200px;
+  /*border: 1px solid grey;*/
+  /*background-color: #afe5f6;*/
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #e7f8e9;
+  letter-spacing: 1px;
+  border: none;
+  outline: none;
+  transition: ease-in-out all .5s;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: lawngreen;
+  transition: ease-in-out all .5s;
+}
+
+#btnNo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #FCF4F4;
+  letter-spacing: 6px;
+  border: none;
+  outline: none;
+  transition: ease-in-out all .5s;
+  cursor: pointer;
+}
+#btnNo:focus {
+  background-color: rgb(255, 60, 60);
+}
+#btnNo:hover {
+  background-color: rgb(255, 137, 137);
+}
+#btn:active {
+  background-color: rgb(68, 15, 0);
+}
+
+.sing {
+  width: 400px;
+  height: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 14%;
+  background-color: white;
+  padding: 40px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 14px;
+}
