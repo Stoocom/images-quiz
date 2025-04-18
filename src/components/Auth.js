@@ -1,5 +1,5 @@
 import {useContext, useEffect, useState} from "react";
-import { signInWithEmailAndPassword } from "firebase/auth";
+import { signInWithEmailAndPassword, signOut } from "firebase/auth";
 import { auth } from "../firebase/firebaseConfig";
 import {useNavigate} from "react-router-dom";
 import {UserContext} from "../index";
@@ -62,13 +62,13 @@ export const Auth = () => {
     //         console.error(error);
     //     }
     // }
-    // const logOut = async () => {
-    //     try {
-    //         await signOut(auth);
-    //     } catch (error) {
-    //         console.error(error);
-    //     }
-    // }
+    const logOut = async () => {
+        try {
+            await signOut(auth);
+        } catch (error) {
+            console.error(error);
+        }
+    }
 
     const routeToSingUp = () => {
         navigate('/signup');
@@ -118,7 +118,7 @@ export const Auth = () => {
               {/*<button id="btn" style={{letterSpacing: "2px", padding: "6px 5px"}} onClick={signInGoogle}> Sign in with*/}
               {/*    Google*/}
               {/*</button>*/}
-              {/*<button id="btnNo" style={{letterSpacing: "2px", padding: "6px 5px"}} onClick={logOut}> Log Out</button>*/}
+              <button id="btnNo" style={{letterSpacing: "2px", padding: "6px 5px"}} onClick={logOut}> Log Out</button>
           </div>
     )
 }
