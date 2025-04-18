@@ -14,7 +14,7 @@ export const Auth = () => {
     const [error, setError] = useState();
 
     const navigate = useNavigate();
-    const { setUser, link } = useContext(UserContext);
+    const { setUser, user, link } = useContext(UserContext);
     console.log('context user', user);
     console.log('context link', link);
     // console.log('context setUser', setUser);
