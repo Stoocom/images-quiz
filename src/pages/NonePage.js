@@ -1,5 +1,6 @@
 
 function NonePage() {
+    console.log('NonePage');
     return <div className="login" style={{color: 'rgb(255, 137, 137)', fontSize: 19}}>
         <span>
             The page is not available /

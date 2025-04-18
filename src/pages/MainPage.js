@@ -9,7 +9,7 @@ import logo from '../images/PED2024-logo.svg';
 const testAfter = null;
 
 function MainPage() {
-
+    console.log('MainPage');
     let { lindId } = useParams();
     // const [ images ] = useState( []);
     const [ snaps, setSnaps ] = useState( []);
