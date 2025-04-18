@@ -15,8 +15,8 @@ export const Auth = () => {
 
     const navigate = useNavigate();
     const { setUser, link } = useContext(UserContext);
-    // console.log('context user', user);
-    // console.log('context link', link);
+    console.log('context user', user);
+    console.log('context link', link);
     // console.log('context setUser', setUser);
     //
     // console.log("auth?.currentUser?.email", auth?.currentUser);
@@ -27,7 +27,7 @@ export const Auth = () => {
             await signInWithEmailAndPassword(auth, emailForm, passwordForm)
                 .then((userCredential) => {
                     // Signed in
-                    // console.log('userCredential.user', userCredential.user);
+                    console.log('userCredential.user', userCredential.user);
                     // ...
                 })
                 .catch((err) => {
@@ -37,14 +37,14 @@ export const Auth = () => {
                     // ) {
                     //     setError("The email address or password is incorrect");
                     // } else {
-                    console.log(err);
+                    console.log('userCredential, error', err);
                     setError(err.message);
                     // alert(err.code);
                 })
                     // };
             // await createUserWithEmailAndPassword(auth, emailForm, passwordForm);
             if (auth?.currentUser?.email) {
-                // console.log('auth?.currentUser?.email',auth?.currentUser?.email)
+                console.log('auth?.currentUser?.email',auth?.currentUser?.email)
                 setEmail(auth?.currentUser?.email);
             }
 

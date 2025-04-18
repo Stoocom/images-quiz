@@ -102,11 +102,11 @@ function MainPage() {
         // console.log('!lindId', !lindId);
         // console.log(!(user?.mail && lindId));
         if (!user?.mail) {
-            navigate('/images-quiz/login');
+            navigate('/login');
         }
 
         if (!lindId) {
-            navigate('/images-quiz/login');
+            navigate('/login');
         }
 
         if (lindId && user?.mail) {
