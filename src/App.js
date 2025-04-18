@@ -1,4 +1,4 @@
-import {HashRouter, Routes, Route, Navigate} from 'react-router-dom';
+import {Routes, Route, Navigate, BrowserRouter} from 'react-router-dom';
 import MainPage from "./pages/MainPage";
 import LoginPage from "./pages/LoginPage";
 import DonePage from "./pages/DonePage";
@@ -17,7 +17,7 @@ function App() {
     const [ link, setLink ] = useState();
 
     return (
-        <HashRouter>
+        <BrowserRouter>
             <UserContext.Provider value={{ user, setUser, link, setLink }}>
                 <div className="main">
                     <Routes>
@@ -34,7 +34,7 @@ function App() {
                     </Routes>
                 </div>
             </UserContext.Provider>
-        </HashRouter>
+        </BrowserRouter>
     );
 }
 
