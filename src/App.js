@@ -17,7 +17,7 @@ function App() {
     const [ link, setLink ] = useState();
 
     return (
-        <HashRouter basename='/images-quiz'>
+        <BrowserRouter basename='/images-quiz'>
             <UserContext.Provider value={{ user, setUser, link, setLink }}>
                 <div className="main">
                     <Routes>
@@ -34,7 +34,7 @@ function App() {
                     </Routes>
                 </div>
             </UserContext.Provider>
-        </HashRouter>
+        </BrowserRouter>
     );
 }
 
