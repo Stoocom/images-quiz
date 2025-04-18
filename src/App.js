@@ -23,7 +23,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<NonePage />} />
                         <Route path="/:lindId" element={<MainPage />} />
-                        <Route path="/login" element={<LoginPage />} />
+                        <Route path="/images-quiz/login" element={<LoginPage />} />
                         <Route path="/signup" element={<SignUpPage />} />
                         <Route path="/done" element={<DonePage />} />
                         <Route path="/admin" element={<AdminPage />} />
