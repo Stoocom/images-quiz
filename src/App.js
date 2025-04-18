@@ -17,13 +17,13 @@ function App() {
     const [ link, setLink ] = useState();
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename='/images-quiz'>
             <UserContext.Provider value={{ user, setUser, link, setLink }}>
                 <div className="main">
                     <Routes>
                         <Route path="/" element={<NonePage />} />
                         <Route path="/:lindId" element={<MainPage />} />
-                        <Route path="/images-quiz/login" element={<LoginPage />} />
+                        <Route path="/login" element={<LoginPage />} />
                         <Route path="/signup" element={<SignUpPage />} />
                         <Route path="/done" element={<DonePage />} />
                         <Route path="/admin" element={<AdminPage />} />
