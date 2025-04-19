@@ -5,7 +5,7 @@ function NonePage() {
         <span>
             The page is not available /
             <br/>
-            please make sure space after http://45.12.19.200/ is fulled
+            please make sure space after https://stoocom.github.io/images-quiz/ is fulled
         </span>
     </div>
 }

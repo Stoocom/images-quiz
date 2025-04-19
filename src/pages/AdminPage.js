@@ -11,14 +11,14 @@ function AdminPage() {
     const addImage = async () => {
         // console.log('url', url);
         const imagesRef = await collection(db, 'images');
-        // const linksRef = await collection(db, 'links');
+        const linksRef = await collection(db, 'links');
         // const q = await query(imagesRef, where('url', '==', url));
         // const alovelaceDocumentRef = doc(db, 'images', images[index].id);
 
         const responseImage = await addDoc(imagesRef, {
             num: +num,
             createDate: new Date(),
-            category: 'Eat, drink and love',
+            category: 'The cultural code',
             url: url,
         });
 
@@ -26,14 +26,14 @@ function AdminPage() {
 
         if (responseImage.id) {
             // const imageDocumentRef = doc(db, 'images', response.id);
-            // console.log("responseImage", responseImage);
-            // const responseLink = await addDoc(linksRef, {
-            //     createDate: new Date(),
-            //     imageId: responseImage,
-            //     name: "am32-4fg1-23nm",
-            // });
+            console.log("responseImage", responseImage);
+            const responseLink = await addDoc(linksRef, {
+                createDate: new Date(),
+                imageId: responseImage,
+                name: "bn34-f12k-lm1o",
+            });
 
-            // console.log("responseLink", responseLink);
+            console.log("responseLink", responseLink);
 
         }
     }
@@ -41,7 +41,7 @@ function AdminPage() {
     const changeUrl = () => {
         let newUrl;
         newUrl = "https://drive.google.com/thumbnail?id=" + url.slice(-33) + "&sz=w595";
-        // console.log(newUrl);
+        console.log(newUrl);
         setUrl(newUrl);
     }
 
@@ -59,8 +59,8 @@ function AdminPage() {
         <br/>
         { num }
         <br/>
-        <button onClick={addImage}> Creat new imageUrl</button>
-        <button onClick={changeUrl}> Change url</button>
+        {/* <button onClick={addImage}> Create new imageUrl</button>
+        <button onClick={changeUrl}> Change url</button> */}
     </div>
 }
 
