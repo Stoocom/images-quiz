@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/images-quiz/static/css/main.e2aa568f.css",
-    "main.js": "/images-quiz/static/js/main.e73d7bf7.js",
+    "main.js": "/images-quiz/static/js/main.a053fd31.js",
     "static/js/453.47178a3f.chunk.js": "/images-quiz/static/js/453.47178a3f.chunk.js",
     "static/media/PED2024-logo.svg": "/images-quiz/static/media/PED2024-logo.913bdde8fc21f052d07c1dbbadf10db2.svg",
     "index.html": "/images-quiz/index.html",
     "main.e2aa568f.css.map": "/images-quiz/static/css/main.e2aa568f.css.map",
-    "main.e73d7bf7.js.map": "/images-quiz/static/js/main.e73d7bf7.js.map",
+    "main.a053fd31.js.map": "/images-quiz/static/js/main.a053fd31.js.map",
     "453.47178a3f.chunk.js.map": "/images-quiz/static/js/453.47178a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2aa568f.css",
-    "static/js/main.e73d7bf7.js"
+    "static/js/main.a053fd31.js"
   ]
 }
