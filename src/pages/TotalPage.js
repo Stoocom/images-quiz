@@ -6171,9 +6171,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 1,
         "imageNum": 549,
         "url": "https://drive.google.com/thumbnail?id=1A9PQLZbESxXMYVm8UeE79OzRXtnzhIOR&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.429",
         "author": "Дарья Недачина"
     },
     {
@@ -6182,9 +6184,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 2,
+        "7": 3,
         "imageNum": 9,
         "url": "https://drive.google.com/thumbnail?id=15Ob6zrsYkjIWiut-Ni48U1DTxCTsxkY0&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Jack Fu"
     },
     {
@@ -6193,9 +6197,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 46,
         "url": "https://drive.google.com/thumbnail?id=1uniOKxSPWjJMer0mJFWoCTnDnwNX5xYQ&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.429",
         "author": "Masoud Saffari"
     },
     {
@@ -6204,9 +6210,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 0,
         "imageNum": 147,
         "url": "https://drive.google.com/thumbnail?id=1B5bq1p3FUK5hRyVfYBVw2kjVk5yOEnZ4&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.571",
         "author": "Антон Шлёнкин"
     },
     {
@@ -6215,9 +6223,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 1,
         "imageNum": 544,
         "url": "https://drive.google.com/thumbnail?id=1VKhzuM1V_0RdGcSUUTdtSn97ufHtiQxS&sz=w595",
-        "middleK": "2.200",
+        "middleK": "1.714",
         "author": "Luis Antonio Rivera Rodriguez"
     },
     {
@@ -6226,9 +6236,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 146,
         "url": "https://drive.google.com/thumbnail?id=1yF3E5ZxQPuaJxbe4rCDnWzqCilBtKd7E&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Антон Шлёнкин"
     },
     {
@@ -6237,9 +6249,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 130,
         "url": "https://drive.google.com/thumbnail?id=1ZIGVTAeSWGIzvZXpdF6eD_-6wVkp7M1f&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.286",
         "author": "YI AN LIU"
     },
     {
@@ -6248,9 +6262,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 109,
         "url": "https://drive.google.com/thumbnail?id=IegtXLXy_UxzlE3arxsesZjkwIOnn5SB &sz=w595",
-        "middleK": "2.200",
+        "middleK": "1.571",
         "author": "Артем Кривченков"
     },
     {
@@ -6259,9 +6275,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 17,
         "url": "https://drive.google.com/thumbnail?id=1-vlk7I9Leok4qOP-LAQAC7LXE7KL0wxY&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "SHEN ZEWEN"
     },
     {
@@ -6270,9 +6288,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 4,
         "url": "https://drive.google.com/thumbnail?id=1Ssdfkus_7cqxmujkLiySTEgKZY6NdNiA&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.286",
         "author": "Yibiao Qin"
     },
     {
@@ -6281,9 +6301,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 125,
         "url": "https://drive.google.com/thumbnail?id=1pYZNiYkxjf6f0zm9O6jN7-7b33uh8uPX&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Kye-soo Myung"
     },
     {
@@ -6292,9 +6314,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 338,
         "url": "https://drive.google.com/thumbnail?id=1UzVXqA1cRz4vWvEkgtOrip9Phavka5UI&sz=w595",
-        "middleK": "2.200",
+        "middleK": "1.857",
         "author": "Алиса Зимина"
     },
     {
@@ -6303,9 +6327,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 128,
         "url": "https://drive.google.com/thumbnail?id=1iK1YLw17ZZP0N6kl0q_RjlWMf-8jGfrh&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.714",
         "author": "Goyen Chen"
     },
     {
@@ -6314,9 +6340,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 151,
         "url": "https://drive.google.com/thumbnail?id=1NLBMp0Fng93Fh3Gphm9uaCbi_Dua0NOC&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Катя Слободская"
     },
     {
@@ -6325,9 +6353,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 107,
         "url": "https://drive.google.com/thumbnail?id=1dNphi8YkN9tc__1FjLvYBjS_MlmLohyZ&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.571",
         "author": "Маргарита Крухтанова"
     },
     {
@@ -6336,9 +6366,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 531,
         "url": "https://drive.google.com/thumbnail?id=1xsLmDocOvDMi54ZpI44QeQW_82sbQJVc&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "zhaoxin"
     },
     {
@@ -6347,9 +6379,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 2,
+        "6": 1,
+        "7": 0,
         "imageNum": 578,
         "url": "https://drive.google.com/thumbnail?id=15Ne7yVq91TlGenCKbpxsY2ZimWb9CGG4&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.571",
         "author": "Jumping He"
     },
     {
@@ -6358,9 +6392,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 77,
         "url": "https://drive.google.com/thumbnail?id=1zwqvkHgGBsnfxAhN6EgcXNyI53a-v5tS&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.429",
         "author": "Екатерина Березовская"
     },
     {
@@ -6369,9 +6405,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 18,
         "url": "https://drive.google.com/thumbnail?id=1QBJrjf2EvKYhgP7FR3KVRh54km4QBgUD&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "XU Kai"
     },
     {
@@ -6380,9 +6418,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 61,
         "url": "https://drive.google.com/thumbnail?id=15fq1ILPeSvooAihJtQOweY5qvWpM6Fy7&sz=w595",
-        "middleK": "1.200",
+        "middleK": "0.857",
         "author": "Владимир Перекрестов"
     },
     {
@@ -6391,9 +6431,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 1,
         "imageNum": 539,
         "url": "https://drive.google.com/thumbnail?id=1GDJ2d2NDVN94TxG97cC_XBVa336cWZ-t&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.000",
         "author": "Akram Mokhber"
     },
     {
@@ -6402,9 +6444,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 348,
         "url": "https://drive.google.com/thumbnail?id=1fN0b0WUVcce9lusEVAQ4uslElmR0V0pz&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Зотова Наташа"
     },
     {
@@ -6413,9 +6457,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 40,
         "url": "https://drive.google.com/thumbnail?id=1Ww_o_AtRq2x2X0WSoq8R5dEfQRuQVvT3&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "AK Bill"
     },
     {
@@ -6424,9 +6470,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 44,
         "url": "https://drive.google.com/thumbnail?id=1j9OxQ72VUJ2MmhH752QRCdPmo-jXbEKW&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Emran Abtahi"
     },
     {
@@ -6435,9 +6483,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 354,
         "url": "https://drive.google.com/thumbnail?id=1YcVeopkz2KOZtlV-0DygVMPG2lyVJQD6&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.571",
         "author": "Артем Кривченков"
     },
     {
@@ -6446,9 +6496,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 1,
         "imageNum": 16,
         "url": "https://drive.google.com/thumbnail?id=1uV9pvGQ7afElqcF1hvx626yPcaVlDILR&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "ZHUO LI"
     },
     {
@@ -6457,9 +6509,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 0,
+        "7": 1,
         "imageNum": 320,
         "url": "https://drive.google.com/thumbnail?id=1cHTczGWk5ZGYdX-7Q4t3nx-uKnq-TRga&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.429",
         "author": "Зырянова Александра"
     },
     {
@@ -6468,9 +6522,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 0,
+        "7": 0,
         "imageNum": 94,
         "url": "https://drive.google.com/thumbnail?id=1MU0oXU9Ov4V0IQcgGUHLSLCTWZ-vWKAG&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.000",
         "author": "Мария Синькова"
     },
     {
@@ -6479,9 +6535,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 112,
         "url": "https://drive.google.com/thumbnail?id=1PZZcrVCUaOwz8o_bFrLVM5SkKUztb_rZ&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.714",
         "author": "Варвара Халилюлина"
     },
     {
@@ -6490,9 +6548,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 517,
         "url": "https://drive.google.com/thumbnail?id=1KukR-s5JeAblLrLXJuMNGBYKFIPyAC0m&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Chen Jie"
     },
     {
@@ -6501,9 +6561,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 42,
         "url": "https://drive.google.com/thumbnail?id=1Bas5ycu84-Mk9ls9aMOjUKhIHPd-5eZJ&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Hossein Abdi"
     },
     {
@@ -6512,9 +6574,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 547,
         "url": "https://drive.google.com/thumbnail?id=1keGQ0mxWsZXY6zDZZ_13w-07GUx1c0LU&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Зырянова Александра"
     },
     {
@@ -6523,9 +6587,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 53,
         "url": "https://drive.google.com/thumbnail?id=1ls6A3wpuVKbI3pdx-Ndut7UFa_KszuKO&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.143",
         "author": "Luis Antonio Rivera Rodriguez"
     },
     {
@@ -6534,9 +6600,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 515,
         "url": "https://drive.google.com/thumbnail?id=1vbWvW_v_6GWoeB62QIf2xl7PciPkyV_R&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Zhang He"
     },
     {
@@ -6545,9 +6613,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 127,
         "url": "https://drive.google.com/thumbnail?id=1NRWSTEHMjHf53LxWwRRMmq9VqqCh6Prb&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.857",
         "author": "Chang, Fang-Pang"
     },
     {
@@ -6556,9 +6626,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 520,
         "url": "https://drive.google.com/thumbnail?id=1Ed2w7JSEkhrDmWNJ7kWcmBEb4oZL1JmL&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Wenjie Huo"
     },
     {
@@ -6567,9 +6639,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 577,
         "url": "https://drive.google.com/thumbnail?id=1-G65a9B32SdnCaDgoqo3bIvxMKWkPNYq&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Jumping He"
     },
     {
@@ -6578,9 +6652,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 0,
+        "6": 2,
+        "7": 3,
         "imageNum": 27,
         "url": "https://drive.google.com/thumbnail?id=1bkWd0xd35NcuuQjXMl5yfnZoihHZ9BZz&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Wenjie Huo"
     },
     {
@@ -6589,9 +6665,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 374,
         "url": "https://drive.google.com/thumbnail?id=1vJZFSvPuYTLOQjOpOEMWGf1UBKuN3fuk&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Cardona"
     },
     {
@@ -6600,9 +6678,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 366,
         "url": "https://drive.google.com/thumbnail?id=1F9O5le9xLC5CsgOU2bWBCPfF8PndmPLb&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Dmitry Mirilenko"
     },
     {
@@ -6611,6 +6691,8 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 358,
         "url": "https://drive.google.com/thumbnail?id=18c0gq_5W_K-12a7qFh58CZ670I_T28Mr&sz=w595",
         "middleK": "1.000",
@@ -6622,9 +6704,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 41,
         "url": "https://drive.google.com/thumbnail?id=1EdxQg0IvtOMJS0FskLwCdWN3q_xaWEzD&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Kata Kaldor"
     },
     {
@@ -6633,9 +6717,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 63,
         "url": "https://drive.google.com/thumbnail?id=1FVKQSdoioDcTXSntrAy_ouOov1Uszwqq&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Мария Темченко"
     },
     {
@@ -6644,9 +6730,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 93,
         "url": "https://drive.google.com/thumbnail?id=1siRVxV1TG2xIGYNQXCrAKpw365qyoRXR&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Мария Синькова"
     },
     {
@@ -6655,9 +6743,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 137,
         "url": "https://drive.google.com/thumbnail?id=1ShPaPnRppywB7rs6jWxjJJ9acIq-p1wG&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Eduardo Davit"
     },
     {
@@ -6666,9 +6756,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 524,
         "url": "https://drive.google.com/thumbnail?id=1SMtem3wmqGysPBoFG5w3gFEro9zvAmEY&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "SHUYING HUANG"
     },
     {
@@ -6677,9 +6769,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 81,
         "url": "https://drive.google.com/thumbnail?id=1wAFAp6E0fUT5a7vGJteamLvlZk5nvmJP&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Анастасия Бардакова"
     },
     {
@@ -6688,9 +6782,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 361,
         "url": "https://drive.google.com/thumbnail?id=1Urr7NTvBb2DjP2ZfEr6ZelTSMwEUC1lL&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Алена Демченко"
     },
     {
@@ -6699,9 +6795,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 67,
         "url": "https://drive.google.com/thumbnail?id=1nXbBmBQDHRI4ePRazX1hxosYqhoXG28v&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Екатерина Крючкова"
     },
     {
@@ -6710,9 +6808,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 83,
         "url": "https://drive.google.com/thumbnail?id=1x1gweSzuB6SidZEBDwPx5fDJSPkjAsjA&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "Алиса Чернова"
     },
     {
@@ -6721,9 +6821,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 75,
         "url": "https://drive.google.com/thumbnail?id=1YuBzCLrELRprk8neUVXU5ui1IbXhTAOI&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Екатерина Березовская"
     },
     {
@@ -6732,9 +6834,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 72,
         "url": "https://drive.google.com/thumbnail?id=1ErDToQyJ7GnhtliUDTdJZ_vU4WBeGLca&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Сёмкина Дарья"
     },
     {
@@ -6743,9 +6847,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 312,
         "url": "https://drive.google.com/thumbnail?id=1YTkEhBlPGKTUmyYNPfDLaLEbBByYbuSq&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "fei Cheng"
     },
     {
@@ -6754,9 +6860,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 111,
         "url": "https://drive.google.com/thumbnail?id=1iCiD47ACHI-3yBQ49kniEoKxL-ziHa5_&sz=w595",
-        "middleK": "2.800",
+        "middleK": "2.429",
         "author": "Артем Кривченков"
     },
     {
@@ -6765,9 +6873,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 66,
         "url": "https://drive.google.com/thumbnail?id=1kkNg0GwybgI7Md_8MsK53HoyGRz-zHDW&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Михаил Ситников"
     },
     {
@@ -6776,9 +6886,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 20,
         "url": "https://drive.google.com/thumbnail?id=1Ksqg3C-DO9DgMF7_OAF8vcjuWTGLHbGL&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.429",
         "author": "JiaNing Song"
     },
     {
@@ -6787,9 +6899,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 1,
+        "6": 2,
+        "7": 3,
         "imageNum": 142,
         "url": "https://drive.google.com/thumbnail?id=1o3ZTw6oGmYbrUcm0gsODY5iPUryhz22T&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Бельчикова Марта"
     },
     {
@@ -6798,9 +6912,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 1,
         "imageNum": 15,
         "url": "https://drive.google.com/thumbnail?id=1qZf9NPh58eRtHuHVtSgVwFVIZoFMaMuN&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.571",
         "author": "Chuang Qiao"
     },
     {
@@ -6809,9 +6925,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 74,
         "url": "https://drive.google.com/thumbnail?id=1twolYjFR4MbwI9JSO9eJlEnUrCZ0HcxV&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.286",
         "author": "Максим Вавенков"
     },
     {
@@ -6820,9 +6938,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 368,
         "url": "https://drive.google.com/thumbnail?id=1Cix-b8ZmHpelSGG6imvjvEXJnacV_t3k&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.286",
         "author": "SHAO-WEI CHUANG"
     },
     {
@@ -6831,9 +6951,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 527,
         "url": "https://drive.google.com/thumbnail?id=1OSPQ2eDv8yVAzKPLWhYWJqSnvgSV5IVK&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "SHUYING HUANG"
     },
     {
@@ -6842,9 +6964,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 2,
+        "6": 2,
+        "7": 2,
         "imageNum": 28,
         "url": "https://drive.google.com/thumbnail?id=1IhiChI8CWvtojvWFlEuO4dJWCTvdoPH-&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.143",
         "author": "Yongqi Chou"
     },
     {
@@ -6853,9 +6977,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 78,
         "url": "https://drive.google.com/thumbnail?id=1qLg2qy-vWNLObQyswEaWLbRHL4jBmsCp&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Виктория Волкова"
     },
     {
@@ -6864,9 +6990,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 518,
         "url": "https://drive.google.com/thumbnail?id=1nq2CsAQ059R2_wu47MATvMxgz27Qj_Xd&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Chen Jie"
     },
     {
@@ -6875,9 +7003,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 76,
         "url": "https://drive.google.com/thumbnail?id=1q0mGmspapCwWsFcuWewpXrTA9bAxiOF7&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.429",
         "author": "Екатерина Березовская"
     },
     {
@@ -6886,9 +7016,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 2,
         "imageNum": 96,
         "url": "https://drive.google.com/thumbnail?id=1wAca646gQWlPgaV32nUOcLOWwAP_dMrH&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Зотова Наташа"
     },
     {
@@ -6897,9 +7029,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 73,
         "url": "https://drive.google.com/thumbnail?id=14gRV3z_ysIObuYqmUk863eQBLNJn2vBV&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Дарья Недачина"
     },
     {
@@ -6908,9 +7042,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 5,
         "url": "https://drive.google.com/thumbnail?id=11gj31Tl6cmeomndI3liIlg7KiSGMUBcy&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Yibiao Qin"
     },
     {
@@ -6919,9 +7055,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 115,
         "url": "https://drive.google.com/thumbnail?id=18nq8THB92KFHlEW61VDljtCXYy9pO6mS&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.857",
         "author": "Женя Щербакова"
     },
     {
@@ -6930,6 +7068,8 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 1,
+        "6": 0,
+        "7": 2,
         "imageNum": 47,
         "url": "https://drive.google.com/thumbnail?id=1Nd90g9oNamp0CCzHP4R1Oc-dBZeaLvgR&sz=w595",
         "middleK": "1.000",
@@ -6941,9 +7081,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 136,
         "url": "https://drive.google.com/thumbnail?id=1gpX454mFD8gb0hEsWzpHW44yoNxeRIxH&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "Eduardo Davit"
     },
     {
@@ -6952,9 +7094,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 349,
         "url": "https://drive.google.com/thumbnail?id=1qUA8xpf8JCj7-PZOgnZS38iyi0ehs2o-&sz=w595",
-        "middleK": "0.400",
+        "middleK": "1.000",
         "author": "Валерия Молянова"
     },
     {
@@ -6963,9 +7107,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 507,
         "url": "https://drive.google.com/thumbnail?id=1sbCmJaN98HZ5U4_JRXj7X9zgi-oc7vPJ&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "QiHe"
     },
     {
@@ -6974,9 +7120,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 350,
         "url": "https://drive.google.com/thumbnail?id=1skXwPMTFQfVOyG_qI0c2EEX-dWR3NJuC&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Константин Семененко"
     },
     {
@@ -6985,9 +7133,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 68,
         "url": "https://drive.google.com/thumbnail?id=1734zk4XL5TjgaKJlr6J1doqimZiMopMb&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Таисия Голомазова"
     },
     {
@@ -6996,9 +7146,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 71,
         "url": "https://drive.google.com/thumbnail?id=1--xNCJTURfB1BawwYzztsAG7v4K-5xf-&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Шевцова Полина"
     },
     {
@@ -7007,9 +7159,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 325,
         "url": "https://drive.google.com/thumbnail?id=1O5iCX2zuHIYtuYadkzDKqwlHz0Pt2uaa&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.429",
         "author": "Якушина Юлия"
     },
     {
@@ -7018,9 +7172,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 87,
         "url": "https://drive.google.com/thumbnail?id=10PCfXPyfXmd23Q3DmaMYddWCPSYMB6D5&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.429",
         "author": "Михаил Злобин"
     },
     {
@@ -7029,9 +7185,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 2,
         "imageNum": 35,
         "url": "https://drive.google.com/thumbnail?id=1Dh1qNhuIqWhYYNqNkivupkN-yDfc9lAh&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.429",
         "author": "zhaoxin"
     },
     {
@@ -7040,9 +7198,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 0,
+        "7": 1,
         "imageNum": 546,
         "url": "https://drive.google.com/thumbnail?id=1QssVBoU55SOyrqYiTkire1-LWv-jXScw&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.000",
         "author": "Зырянова Александра"
     },
     {
@@ -7051,9 +7211,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 23,
         "url": "https://drive.google.com/thumbnail?id=1N5QBFpFmvoDKcNogz9OMuvjl4szXNrdE&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Xian Liyun"
     },
     {
@@ -7062,9 +7224,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 3,
         "url": "https://drive.google.com/thumbnail?id=13bs06H83ASnZoDhlHmZU_KiKx_TNuTrW&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "QIANG GANG"
     },
     {
@@ -7073,9 +7237,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 0,
+        "7": 2,
         "imageNum": 62,
         "url": "https://drive.google.com/thumbnail?id=1JugJQBwIDiti3Wu8ENPBypOj2V7VgEsc&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Алфёрова Анастасия"
     },
     {
@@ -7084,9 +7250,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 152,
         "url": "https://drive.google.com/thumbnail?id=1kFJW704zDBzA4Uu2Loejdnoyc8e1J945&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.429",
         "author": "Катя Слободская"
     },
     {
@@ -7095,9 +7263,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 326,
         "url": "https://drive.google.com/thumbnail?id=1sr2E7CpDStUGjXaOQGrXfOTZXDtj5Q4_&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Дарья Козлова"
     },
     {
@@ -7106,9 +7276,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 64,
         "url": "https://drive.google.com/thumbnail?id=1Jc7Ov5C6iCD_hzYoWlFEA5CcP-FGKsrH&sz=w595",
-        "middleK": "1.200",
+        "middleK": "0.857",
         "author": "Гуменная Ульяна"
     },
     {
@@ -7117,9 +7289,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 139,
         "url": "https://drive.google.com/thumbnail?id=1fFVH4krFx9mWqfBl90L_9-sv2ch57nqn&sz=w595",
-        "middleK": "0.400",
+        "middleK": "1.143",
         "author": "Li Zhang"
     },
     {
@@ -7128,9 +7302,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 100,
         "url": "https://drive.google.com/thumbnail?id=137T7UgbcW4UuSGsGHAnYlnYOrFiXLMWi&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Ирина Кузнецова"
     },
     {
@@ -7139,9 +7315,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 552,
         "url": "https://drive.google.com/thumbnail?id=1dnSjp5ZO7DeqNBRWLagix3X-9UqD7qi4&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Мария Синькова"
     },
     {
@@ -7150,9 +7328,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 144,
         "url": "https://drive.google.com/thumbnail?id=1tFJgMDmky9d4cKj7h0sF-iYCRKaMlUof&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.429",
         "author": "Бельчикова Марта"
     },
     {
@@ -7161,9 +7341,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 566,
         "url": "https://drive.google.com/thumbnail?id=1S55sHXH7hTwdJJTkRMVF-Jgtwll8esK4&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Pavel Pisklakov"
     },
     {
@@ -7172,9 +7354,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 2,
+        "6": 1,
+        "7": 1,
         "imageNum": 12,
         "url": "https://drive.google.com/thumbnail?id=191M2rdL8FKbV1lghYjJJH6CgqAFXVomp&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.286",
         "author": "Fan Yu"
     },
     {
@@ -7183,9 +7367,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 569,
         "url": "https://drive.google.com/thumbnail?id=1q7FdO0BP4VjGYpJ8IggfcO_5hnC2l9Fu&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.857",
         "author": "Chang, Fang-Pang"
     },
     {
@@ -7194,9 +7380,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 0,
+        "7": 0,
         "imageNum": 105,
         "url": "https://drive.google.com/thumbnail?id=1IiL9rkKbtfZPpvPYQfU6SSofPEj2PwCg&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.286",
         "author": "Кристина Большакова"
     },
     {
@@ -7205,9 +7393,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 134,
         "url": "https://drive.google.com/thumbnail?id=1KT60EV8w3dUwGhW3DhKaqxoIXlfn0klI&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.857",
         "author": "Resul AY"
     },
     {
@@ -7216,9 +7406,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 58,
         "url": "https://drive.google.com/thumbnail?id=1spn7mDMkZovYCR4CDCXFrEcr8M6SOYKB&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Зырянова Александра"
     },
     {
@@ -7227,9 +7419,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 110,
         "url": "https://drive.google.com/thumbnail?id=1fQ8jjfWWDbwdg1BAnoqabNOH6yLJjC5e&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Артем Кривченков"
     },
     {
@@ -7238,9 +7432,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 536,
         "url": "https://drive.google.com/thumbnail?id=15hko0qAQ0dbUcaQWh80JFj-vO8qWQ1yg&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Mario Fuentes"
     },
     {
@@ -7249,9 +7445,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 526,
         "url": "https://drive.google.com/thumbnail?id=1KpVUbFRX_ebVAZWVXhRc84LV5p6DOCqX&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.429",
         "author": "SHUYING HUANG"
     },
     {
@@ -7260,9 +7458,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 1,
+        "7": 2,
         "imageNum": 34,
         "url": "https://drive.google.com/thumbnail?id=1l5V9EJ3ZZQkczVSDjRKQceqEq7d1AQxe&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "zhaoxin"
     },
     {
@@ -7271,9 +7471,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 553,
         "url": "https://drive.google.com/thumbnail?id=1SqB4cmDzVrQ-_2SfP36eQQogVGihj5st&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.143",
         "author": "Никитина Анна"
     },
     {
@@ -7282,9 +7484,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 3,
         "imageNum": 557,
         "url": "https://drive.google.com/thumbnail?id=15NEzKMoOEwzoBvwbNGBHjlRhe8csRN9M&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "Арина Кириллова"
     },
     {
@@ -7293,9 +7497,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 31,
         "url": "https://drive.google.com/thumbnail?id=1aElLUNIJNXVFmRnwRaShQnY61zBpSRHt&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Xujie Lyu"
     },
     {
@@ -7304,9 +7510,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 339,
         "url": "https://drive.google.com/thumbnail?id=18qrtGMAQLqSlrQvvRPg3Fq2G1PKjxg5R&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Зоя Беликова"
     },
     {
@@ -7315,9 +7523,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 304,
         "url": "https://drive.google.com/thumbnail?id=1QemW3MiLkAx4hKyvSRqUWrvCtcXr_zI1&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.571",
         "author": "Yibiao Qin"
     },
     {
@@ -7326,9 +7536,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 70,
         "url": "https://drive.google.com/thumbnail?id=1DMA6ypRA4-yOcRu7If7hwX8_O9g5lj-Y&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Динара Туйсина"
     },
     {
@@ -7337,9 +7549,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 541,
         "url": "https://drive.google.com/thumbnail?id=1bL4sb8A7yTvVe6KsLJg-uZbesBwnX4i5&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.571",
         "author": "Katsuya Kawahira"
     },
     {
@@ -7348,9 +7562,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 333,
         "url": "https://drive.google.com/thumbnail?id=1bbVZEq8YPQGB7xXdERfXJ7XgZhP-2CAc&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Виктория Волкова"
     },
     {
@@ -7359,9 +7575,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 1,
         "imageNum": 7,
         "url": "https://drive.google.com/thumbnail?id=1n2qo2NuTAx-Pm13XpFKFSE8souNbpJ-H&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.429",
         "author": "jianqiang qiu"
     },
     {
@@ -7370,9 +7588,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 106,
         "url": "https://drive.google.com/thumbnail?id=1EtiXcUST0VdRGGL9o2NJ-Xi29oHUZIDL&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.857",
         "author": "Варвара Исаева"
     },
     {
@@ -7381,9 +7601,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 505,
         "url": "https://drive.google.com/thumbnail?id=1wxQRSB6Lx3dCRFWvo0-1va9EU0ute988&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.143",
         "author": "jianqiang qiu"
     },
     {
@@ -7392,9 +7614,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 117,
         "url": "https://drive.google.com/thumbnail?id=1wZaSBsItbQWnn8PNndHctZIpkr8ZKHzD&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.143",
         "author": "Устапасиди"
     },
     {
@@ -7403,9 +7627,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 512,
         "url": "https://drive.google.com/thumbnail?id=15RjM5iB_ZzqAtIM5gyFmIdTFzR0m02jW&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.714",
         "author": "Xian Liyun"
     },
     {
@@ -7414,9 +7640,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 336,
         "url": "https://drive.google.com/thumbnail?id=1T14pXI4IT1VMLDmResLZxl0C3csg70Dx&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.429",
         "author": "Владимир Егоров"
     },
     {
@@ -7425,9 +7653,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 331,
         "url": "https://drive.google.com/thumbnail?id=1IECOwm1EfCC20VIJjwwP6wDffUraWeDw&sz=w595",
-        "middleK": "2.800",
+        "middleK": "2.429",
         "author": "Полина Бушмакова"
     },
     {
@@ -7436,9 +7666,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 353,
         "url": "https://drive.google.com/thumbnail?id=1bDoc8VP-E2SSmvZTWh6fqXJM-RHpOTOq&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Анастасия Исакова"
     },
     {
@@ -7447,9 +7679,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 523,
         "url": "https://drive.google.com/thumbnail?id=15LBv4BPO4gRQo6VbipRVgsElQI8KMx9x&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.857",
         "author": "SHUYING HUANG"
     },
     {
@@ -7458,9 +7692,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 316,
         "url": "https://drive.google.com/thumbnail?id=1gNw2IK7_W6eilQCvmnM7oRWsKzV3LBmy&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "saideh khorsandi"
     },
     {
@@ -7469,9 +7705,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 2,
         "imageNum": 554,
         "url": "https://drive.google.com/thumbnail?id=1RCtu4D_e84rxJzBwF_Tn0Mp1sPdfAbeS&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Ирина Кузнецова"
     },
     {
@@ -7480,9 +7718,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 148,
         "url": "https://drive.google.com/thumbnail?id=158NB1BRNuwY8ohu7B7MdjpFw1ZBkehUf&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.571",
         "author": "Татьяна Кузнецова"
     },
     {
@@ -7491,9 +7731,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 2,
+        "6": 0,
+        "7": 2,
         "imageNum": 149,
         "url": "https://drive.google.com/thumbnail?id=1rJvTpPp-gPYVxVXoJriG3dty11kD6BkJ&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.571",
         "author": "Татьяна Кузнецова"
     },
     {
@@ -7502,9 +7744,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 521,
         "url": "https://drive.google.com/thumbnail?id=1YGfUPwqCBTXowwpiKP7u4NIcq8yj2rTK&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.143",
         "author": "Yongqi Chou"
     },
     {
@@ -7513,9 +7757,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 302,
         "url": "https://drive.google.com/thumbnail?id=1ODzqV5BlAWiF8OL1yIhI4FkvcKpA6e6R&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.286",
         "author": "Камила Акназарова"
     },
     {
@@ -7524,9 +7770,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 534,
         "url": "https://drive.google.com/thumbnail?id=1yfHssClsRhVjRp0ZY_oIwLhDB6M3iifc&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.143",
         "author": "元一设计"
     },
     {
@@ -7535,9 +7783,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 3,
         "imageNum": 357,
         "url": "https://drive.google.com/thumbnail?id=1bX3NsIGq9wcY-8ll5xxl7FddM6hSoYB5&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "Женя Щербакова"
     },
     {
@@ -7546,9 +7796,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 38,
         "url": "https://drive.google.com/thumbnail?id=1-9XXflaiXYPXI38-WdlOhrupVXQKm4RB&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.286",
         "author": "Hanan Awny Mohamed"
     },
     {
@@ -7557,9 +7809,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 1,
         "imageNum": 573,
         "url": "https://drive.google.com/thumbnail?id=1PD1c7SllzpZVdUoiBjZtskRm44yP22qt&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.429",
         "author": "Владимир Дородний"
     },
     {
@@ -7568,9 +7822,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 570,
         "url": "https://drive.google.com/thumbnail?id=1EFL2evvLxJHdwgf2IjyThLsn8IFGpgsa&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Chang, Fang-Pang"
     },
     {
@@ -7579,9 +7835,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 556,
         "url": "https://drive.google.com/thumbnail?id=1vPZO8OBpkueDvcJKZuTYOsaZynoFWPRI&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.286",
         "author": "Варвара Исаева"
     },
     {
@@ -7590,9 +7848,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 545,
         "url": "https://drive.google.com/thumbnail?id=1fQkAvFBPROoeas9DAu4h_vYflOpLsDDl&sz=w595",
-        "middleK": "1.000",
+        "middleK": "0.714",
         "author": "LILIA LUJÁN"
     },
     {
@@ -7601,9 +7861,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 559,
         "url": "https://drive.google.com/thumbnail?id=1F0s6-_9AiFrt_ihtZIm__PKf4trMsQ9I&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Ева Волкова"
     },
     {
@@ -7612,9 +7874,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 317,
         "url": "https://drive.google.com/thumbnail?id=1hLFma8sdHHXF-w_VtXuJItGPyxhiZSpN&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Abulqasim Najah"
     },
     {
@@ -7623,9 +7887,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 101,
         "url": "https://drive.google.com/thumbnail?id=1K_JX2CXk4C7gU0XtFD-TtCc0Wz1tnStJ&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.429",
         "author": "Ирина Кузнецова"
     },
     {
@@ -7634,9 +7900,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 0,
         "imageNum": 49,
         "url": "https://drive.google.com/thumbnail?id=1xYcgNgvPoc4CHbZdkOj9i8EYrxg5mhsM&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Raqee Najmuldeen"
     },
     {
@@ -7645,9 +7913,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 356,
         "url": "https://drive.google.com/thumbnail?id=1pUhV0Dkk6JrELjRy0P2RvlBMoftwNKWI&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Ева Волкова"
     },
     {
@@ -7656,9 +7926,11 @@ const result2 = [
         "3": 1,
         "4": 2,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 308,
         "url": "https://drive.google.com/thumbnail?id=1MTmHZsvS5hHKIX8yYVWQs4kZ-84B-dkQ&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.714",
         "author": "ZHUO LI"
     },
     {
@@ -7667,9 +7939,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 1,
         "imageNum": 6,
         "url": "https://drive.google.com/thumbnail?id=1jnHT14BET7nmGubuK-pMgdtxF6XNbW8g&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.571",
         "author": "xuran zhang"
     },
     {
@@ -7678,9 +7952,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 571,
         "url": "https://drive.google.com/thumbnail?id=1UYXFX3FhZVUMCU97L5If2Hpfjxw__LHr&sz=w595",
-        "middleK": "0.200",
+        "middleK": "0.857",
         "author": "DR. MAHIMA GUPTA"
     },
     {
@@ -7689,9 +7965,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 533,
         "url": "https://drive.google.com/thumbnail?id=1PzI03CeDZuU9S_YqIvX4JpO9VD_0r_wG&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Lou Chunag"
     },
     {
@@ -7700,9 +7978,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 51,
         "url": "https://drive.google.com/thumbnail?id=1xDtZxTjdcThmkpTUHmXOa_tkiWdKrXcB&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "Katsuya Kawahira"
     },
     {
@@ -7711,9 +7991,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 327,
         "url": "https://drive.google.com/thumbnail?id=1zGpdfdPEQx4VE8bSUhgUvE7_Tu3Rois8&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Вера Михайлова"
     },
     {
@@ -7722,9 +8004,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 344,
         "url": "https://drive.google.com/thumbnail?id=18bVCrf-i3q5cG9aSoB0yrLOoP6FoIZQv&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Наталия Поволокина"
     },
     {
@@ -7733,9 +8017,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 59,
         "url": "https://drive.google.com/thumbnail?id=1cKE5HsfVgzIvfdc_-VoWrL_zzo9f3jFC&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.571",
         "author": "Полина Григорьева"
     },
     {
@@ -7744,9 +8030,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 10,
         "url": "https://drive.google.com/thumbnail?id=1OliMT2YllOzamSTxMqWrMqr46vLnwH8N&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Jack Fu"
     },
     {
@@ -7755,9 +8043,11 @@ const result2 = [
         "3": 1,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 352,
         "url": "https://drive.google.com/thumbnail?id=1tZVZyTxVqB33-pXEjf7HFDk5Wlo7IqIi&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "Анастасия Исакова"
     },
     {
@@ -7766,9 +8056,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 2,
         "imageNum": 92,
         "url": "https://drive.google.com/thumbnail?id=1P1fnc19NGtHVg6sEubmXm75gffrsEHW9&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Надежда Сотир"
     },
     {
@@ -7777,9 +8069,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 329,
         "url": "https://drive.google.com/thumbnail?id=1qy-k-LxOEo8ER0B5tnP1_Wu52nER_fT-&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.571",
         "author": "Шевцова Полина"
     },
     {
@@ -7788,9 +8082,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 328,
         "url": "https://drive.google.com/thumbnail?id=1bpQevfg-LreTsrfpypwc4p3g9wNuWSRy&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Динара Туйсина"
     },
     {
@@ -7799,9 +8095,11 @@ const result2 = [
         "3": 0,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 528,
         "url": "https://drive.google.com/thumbnail?id=1gxbuzt20fkDV-LVBFxPpvoFpQ_TzCdsh&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "Xujie Lyu"
     },
     {
@@ -7810,9 +8108,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 1,
+        "6": 0,
+        "7": 1,
         "imageNum": 529,
         "url": "https://drive.google.com/thumbnail?id=11NloI2Msst1YiDKrHDzq5iaWZhwq0zig&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.286",
         "author": "Yibin Huang"
     },
     {
@@ -7821,9 +8121,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 576,
         "url": "https://drive.google.com/thumbnail?id=13YOAiPkcwSzfhsIwYHSUdGcBAFmhZOG8&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "BAGUS INSANU ROKHMAN"
     },
     {
@@ -7832,9 +8134,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 133,
         "url": "https://drive.google.com/thumbnail?id=1gtkkDdmDHnysnOfp9uOdrXOn53Sn7PVZ&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.286",
         "author": "Resul AY"
     },
     {
@@ -7843,9 +8147,11 @@ const result2 = [
         "3": 1,
         "4": 2,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 310,
         "url": "https://drive.google.com/thumbnail?id=13hEzf12mfxefEcyqpwGKnoSN9JEhobbx&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Xuwei Zhang"
     },
     {
@@ -7854,9 +8160,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 564,
         "url": "https://drive.google.com/thumbnail?id=1EGt_BiGqeb_NiUSnI-4HajPJrOS4OTHW&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Pavel Pisklakov"
     },
     {
@@ -7865,9 +8173,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 315,
         "url": "https://drive.google.com/thumbnail?id=16BqifVkObTSbanSTIhnQxmbSRUzSUOvb&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.571",
         "author": "AK Bill"
     },
     {
@@ -7876,9 +8186,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 121,
         "url": "https://drive.google.com/thumbnail?id=1CVQMLSossyoIOTNxD8RnerZc-MX9s-cq&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "Pavel Pisklakov"
     },
     {
@@ -7887,9 +8199,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 509,
         "url": "https://drive.google.com/thumbnail?id=1rP2PEdbC4XA8eFThU2dkN0YET_jrVIjr&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "QiHe"
     },
     {
@@ -7898,9 +8212,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 530,
         "url": "https://drive.google.com/thumbnail?id=1aC36JtjMqe4NcztS9ObF8s4VBJs4Vywr&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "zhaoxin"
     },
     {
@@ -7909,9 +8225,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 0,
+        "6": 2,
+        "7": 0,
         "imageNum": 79,
         "url": "https://drive.google.com/thumbnail?id=1YDTCc7U0A54yRDYRvIA6-rRHG4yiuVrv&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.714",
         "author": "Борис Житков"
     },
     {
@@ -7920,9 +8238,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 363,
         "url": "https://drive.google.com/thumbnail?id=1vaWAZkzJJbCR0qSy4L_Kt9d2OtKzV4nS&sz=w595",
-        "middleK": "2.600",
+        "middleK": "2.000",
         "author": "Эппле Евгения"
     },
     {
@@ -7931,9 +8251,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 1,
+        "6": 1,
+        "7": 1,
         "imageNum": 579,
         "url": "https://drive.google.com/thumbnail?id=1-7oYwO4NIc8PlPkGv798iuEWA_yZz7h3&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Jumping He"
     },
     {
@@ -7942,6 +8264,8 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 504,
         "url": "https://drive.google.com/thumbnail?id=1TvtXj2nUVtYCtvLbkoRTBj9dB7HwRPgp&sz=w595",
         "middleK": "2.000",
@@ -7953,9 +8277,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 351,
         "url": "https://drive.google.com/thumbnail?id=1dXzCQNdBqTWYZWxSD1LCqu3XaaqcGwWa&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Ирина Кузнецова"
     },
     {
@@ -7964,9 +8290,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 54,
         "url": "https://drive.google.com/thumbnail?id=1LVo44LgPZ-rpTek1DcidGuicMPZ47DnK&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.429",
         "author": "LILIA LUJÁN"
     },
     {
@@ -7975,9 +8303,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 138,
         "url": "https://drive.google.com/thumbnail?id=1rLFtSC4u-izh0Htu3Gzn00MMyUdiwXTy&sz=w595",
-        "middleK": "0.000",
+        "middleK": "0.857",
         "author": "Ryan Slone"
     },
     {
@@ -7986,9 +8316,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 572,
         "url": "https://drive.google.com/thumbnail?id=1nMtFx9Qy6wpKoJjXPsb1UsMyTf0rX3Pz&sz=w595",
-        "middleK": "2.200",
+        "middleK": "1.857",
         "author": "Владимир Дородний"
     },
     {
@@ -7997,9 +8329,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 1,
         "imageNum": 319,
         "url": "https://drive.google.com/thumbnail?id=1_MbHbSteUow6nBXk3LopBw3-b5p1FKeG&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.429",
         "author": "Damian Klaczkiewicz"
     },
     {
@@ -8008,9 +8342,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 2,
+        "7": 3,
         "imageNum": 26,
         "url": "https://drive.google.com/thumbnail?id=1vRdp5ezW6Mm_PeoJUTeN44ut7WsHb4hk&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Zhang He"
     },
     {
@@ -8019,9 +8355,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 113,
         "url": "https://drive.google.com/thumbnail?id=1-1aAQ8DmYYq16yUrYflyBT69SSMoip8j&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.571",
         "author": "Полина Бережная"
     },
     {
@@ -8030,9 +8368,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 516,
         "url": "https://drive.google.com/thumbnail?id=18kNobH32AAfldq50x_sQBCcVOe7x1hDM&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.429",
         "author": "Yan Wu"
     },
     {
@@ -8041,9 +8381,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 0,
+        "6": 3,
+        "7": 1,
         "imageNum": 313,
         "url": "https://drive.google.com/thumbnail?id=1S1qSWBNcbx3WeMKUYDg1yVB5_tQCFrrG&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.143",
         "author": "Huiqiong Yang"
     },
     {
@@ -8052,9 +8394,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 2,
         "imageNum": 324,
         "url": "https://drive.google.com/thumbnail?id=1s2rgEJ0enloYLbLCabYLH8UC1Is2lore&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.714",
         "author": "Валиева Варвара Максимовна"
     },
     {
@@ -8063,6 +8407,8 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 123,
         "url": "https://drive.google.com/thumbnail?id=1POWd8PkBu6WL9jR3xDShk7teBf4bbNkp&sz=w595",
         "middleK": "1.000",
@@ -8074,9 +8420,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 342,
         "url": "https://drive.google.com/thumbnail?id=1_-6SFQRnAqPcw0PCSkbAEEjF5dKIsFQy&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.286",
         "author": "Залогина Наталья"
     },
     {
@@ -8085,9 +8433,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 153,
         "url": "https://drive.google.com/thumbnail?id=1Z_zqoLBA6e3rdtcsd8MGvQJYCMQHzG7n&sz=w595",
-        "middleK": "2.200",
+        "middleK": "1.857",
         "author": "Катя Слободская"
     },
     {
@@ -8096,9 +8446,11 @@ const result2 = [
         "3": 0,
         "4": 3,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 551,
         "url": "https://drive.google.com/thumbnail?id=1PVfPJ40S-A2J9SsF7gtXN4_ilji13OdG&sz=w595",
-        "middleK": "1.000",
+        "middleK": "0.714",
         "author": "Алексей Лозовский"
     },
     {
@@ -8107,9 +8459,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 3,
         "imageNum": 129,
         "url": "https://drive.google.com/thumbnail?id=1fZ_E0UPcAn9FdF5Zr96mXLPw7uymsg9_&sz=w595",
-        "middleK": "0.200",
+        "middleK": "1.000",
         "author": "YI AN LIU"
     },
     {
@@ -8118,9 +8472,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 367,
         "url": "https://drive.google.com/thumbnail?id=1qzTxn8gCVK0KilIU7ZrbSlf60Bg8zEQ6&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.286",
         "author": "Ivan Mišić"
     },
     {
@@ -8129,9 +8485,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 45,
         "url": "https://drive.google.com/thumbnail?id=1xaYGiauhMfgCkD6-VxP__AU7AL_JgiyA&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Emran Abtahi"
     },
     {
@@ -8140,9 +8498,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 13,
         "url": "https://drive.google.com/thumbnail?id=1D2iLYyxbJm5E83DXwrA3ItLsMTBfRAUG&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Chasel Peng"
     },
     {
@@ -8151,9 +8511,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 116,
         "url": "https://drive.google.com/thumbnail?id=1Vmx7JbDYfWWjnZ2Uuv8B223AoC41CSM7&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "Харатишвили Валерия"
     },
     {
@@ -8162,9 +8524,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 522,
         "url": "https://drive.google.com/thumbnail?id=17bBLpcDfprUQ7NIpz_JRs7Kr1uTLtk-X&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.571",
         "author": "SHUYING HUANG"
     },
     {
@@ -8173,9 +8537,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 154,
         "url": "https://drive.google.com/thumbnail?id=160QVDg7dBjw7JvKCjXmCx4PUDFsW4eLZ&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Jumping He"
     },
     {
@@ -8184,9 +8550,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 36,
         "url": "https://drive.google.com/thumbnail?id=1i74rnkveQCltFyjejf-E9JKK6jR3pS4Q&sz=w595",
-        "middleK": "0.400",
+        "middleK": "0.714",
         "author": "ZHU BAITAO"
     },
     {
@@ -8195,9 +8563,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 102,
         "url": "https://drive.google.com/thumbnail?id=1QYlYZr1y9e6NbDEi2ZTFQ3qhPO390bF2&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Ирина Кузнецова"
     },
     {
@@ -8206,9 +8576,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 118,
         "url": "https://drive.google.com/thumbnail?id=1SWRvRnBLvw4sP4Yki1jVhuu_FBxCsLJc&sz=w595",
-        "middleK": "1.200",
+        "middleK": "0.857",
         "author": "Устапасиди"
     },
     {
@@ -8217,9 +8589,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 1,
+        "6": 3,
+        "7": 2,
         "imageNum": 124,
         "url": "https://drive.google.com/thumbnail?id=1JP87L5IDsa-1zDqKsjtKhLXY6ZcVNWsW&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Christopher Han"
     },
     {
@@ -8228,9 +8602,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 1,
+        "6": 2,
+        "7": 1,
         "imageNum": 8,
         "url": "https://drive.google.com/thumbnail?id=1oX1tVl3KQIqqCttdasaWcUrULiIt0Ad9&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.857",
         "author": "Wenlong Zhang"
     },
     {
@@ -8239,9 +8615,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 65,
         "url": "https://drive.google.com/thumbnail?id=1hziZxe0Q6ybSGkAp1PF-So2YAOClA_oW&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Дарья Беда"
     },
     {
@@ -8250,9 +8628,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 32,
         "url": "https://drive.google.com/thumbnail?id=1aT7qsMoJ7-fdYqllCka22jQooSLjOUl1&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Xujie Lyu"
     },
     {
@@ -8261,9 +8641,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 39,
         "url": "https://drive.google.com/thumbnail?id=1o_oskwb9mXuGQGZVxgZZAqRPzkyZzyRU&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.000",
         "author": "Daniel Meier"
     },
     {
@@ -8272,9 +8654,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 334,
         "url": "https://drive.google.com/thumbnail?id=1XVNjXNHrxY5oFGCKcHjm12MHKnXoVWHx&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Ульяна Ивакина"
     },
     {
@@ -8283,9 +8667,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 502,
         "url": "https://drive.google.com/thumbnail?id=1n0BHzWp1OlZi4wroqZqPooisn5NDYz_U&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Yibiao Qin"
     },
     {
@@ -8294,9 +8680,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 2,
         "url": "https://drive.google.com/thumbnail?id=1aCTNlpj0rxyKdvJXGEex2VZm0fJxAqHC&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.286",
         "author": "QIANG GANG"
     },
     {
@@ -8305,9 +8693,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 346,
         "url": "https://drive.google.com/thumbnail?id=1oUcbKWZJOxXJZcyM5ef9IvjnsiFRsnE4&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Кира Федосова"
     },
     {
@@ -8316,9 +8706,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 57,
         "url": "https://drive.google.com/thumbnail?id=1shaC8Wbmui8KVJvdNN8nr6dPaXYcRn6B&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.857",
         "author": "Зырянова Александра"
     },
     {
@@ -8327,9 +8719,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 323,
         "url": "https://drive.google.com/thumbnail?id=1pkWknoELzZ1nC15fMBZTjyov2q56WkAp&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Ольга Назарова"
     },
     {
@@ -8338,9 +8732,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 108,
         "url": "https://drive.google.com/thumbnail?id=1LPHfzfDkuhFsLdR0elf7noronB10c23E&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Карабанова Анна"
     },
     {
@@ -8349,9 +8745,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 347,
         "url": "https://drive.google.com/thumbnail?id=1mPLrNUMY-ounSOyf1F_lXmt_dJpoXeKR&sz=w595",
-        "middleK": "2.000",
+        "middleK": "1.714",
         "author": "Арина Константинова"
     },
     {
@@ -8360,9 +8758,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 309,
         "url": "https://drive.google.com/thumbnail?id=1a17kRvT9eJvhV3Q4Sh04CSTVTWxXgoQ_&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Xian Liyun"
     },
     {
@@ -8371,9 +8771,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 135,
         "url": "https://drive.google.com/thumbnail?id=1-IIPgeFyIKmkzFNHnEbiGYa953watls-&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "ORHUN TURKER"
     },
     {
@@ -8382,9 +8784,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 514,
         "url": "https://drive.google.com/thumbnail?id=1XJAG-KOEusdEdDrZ33Q8Az7_8Cbsf5Qc&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "Zhang He"
     },
     {
@@ -8393,9 +8797,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 542,
         "url": "https://drive.google.com/thumbnail?id=1XROWiKnalE0Fga4kMeyfC5IenQC6w7QY&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.571",
         "author": "Takashi Matsuda"
     },
     {
@@ -8404,9 +8810,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 565,
         "url": "https://drive.google.com/thumbnail?id=1guxboy2tD1rQ1WX4DFDHT_-mZ3vOEAhn&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Pavel Pisklakov"
     },
     {
@@ -8415,9 +8823,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 24,
         "url": "https://drive.google.com/thumbnail?id=1NSX0bL_Tm1j4LpB4B1mBdRq5pppBgkeH&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.571",
         "author": "HAN ZHANG"
     },
     {
@@ -8426,6 +8836,8 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 0,
+        "7": 2,
         "imageNum": 82,
         "url": "https://drive.google.com/thumbnail?id=15XEg0U2p6EBWBJZF2wkZb6cwiUsfkOnn&sz=w595",
         "middleK": "1.000",
@@ -8437,9 +8849,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 30,
         "url": "https://drive.google.com/thumbnail?id=124EoWNgES0EnGFHMA_msF6kW2wP-7C-h&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Yongqi Chou"
     },
     {
@@ -8448,9 +8862,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 131,
         "url": "https://drive.google.com/thumbnail?id=1w5_TGxICuYdWIO056_Ecvw1YNpVl1NLB&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Nebican Taskan"
     },
     {
@@ -8459,9 +8875,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 2,
+        "6": 1,
+        "7": 2,
         "imageNum": 19,
         "url": "https://drive.google.com/thumbnail?id=15BTInry-j7yxE_Feda39gYwXchI4NTAE&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "JiaNing Song"
     },
     {
@@ -8470,9 +8888,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 560,
         "url": "https://drive.google.com/thumbnail?id=1ViX6oFHuzlsOtXexeXAJTMxQQxkLY08I&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Мария Богданова"
     },
     {
@@ -8481,9 +8901,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 150,
         "url": "https://drive.google.com/thumbnail?id=1YaKL-Mzf0vBLyYiDP04l-okqh_35CMeq&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.714",
         "author": "Татьяна Кузнецова"
     },
     {
@@ -8492,9 +8914,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 48,
         "url": "https://drive.google.com/thumbnail?id=1z1EVfiFVXLLHQYMcpz7_8aW8O3EjhH41&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "saideh khorsandi"
     },
     {
@@ -8503,9 +8927,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 558,
         "url": "https://drive.google.com/thumbnail?id=1aCiYocKSLIFyUW4avITk1wDzTTn98XYW&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "Артем Кривченков"
     },
     {
@@ -8514,9 +8940,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 365,
         "url": "https://drive.google.com/thumbnail?id=1SxrRXUMUnnEK_yP2jAyis5cdWFOb29p6&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Pavel Pisklakov"
     },
     {
@@ -8525,9 +8953,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 55,
         "url": "https://drive.google.com/thumbnail?id=14RFO-0XsENyVxg9RyEGuTMY454sEKyU2&sz=w595",
-        "middleK": "2.800",
+        "middleK": "2.857",
         "author": "Luis Yañez"
     },
     {
@@ -8536,9 +8966,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 548,
         "url": "https://drive.google.com/thumbnail?id=142-zSIdz_1f8fY9Dm21IMwKVk-us6iMH&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Никита Баталов"
     },
     {
@@ -8547,9 +8979,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 340,
         "url": "https://drive.google.com/thumbnail?id=1tLuEKQBuksy-HZ61jymHSEfzl-DLVEkw&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Дарья Кравцова"
     },
     {
@@ -8558,9 +8992,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 355,
         "url": "https://drive.google.com/thumbnail?id=19yhALl5n0RcL5qyP8GvJlSiN_2pexgjj&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Ева Волкова"
     },
     {
@@ -8569,9 +9005,11 @@ const result2 = [
         "3": 0,
         "4": 2,
         "5": 2,
+        "6": 0,
+        "7": 0,
         "imageNum": 345,
         "url": "https://drive.google.com/thumbnail?id=1Bnp4xWypMCCMY0-kDRZt1M-JzRkx0E89&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.000",
         "author": "Елизавета Драч"
     },
     {
@@ -8580,9 +9018,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 140,
         "url": "https://drive.google.com/thumbnail?id=1ltspzuLLmojzOCbJanaLHPt46vomO3U4&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.429",
         "author": "DR. MAHIMA GUPTA"
     },
     {
@@ -8591,9 +9031,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 0,
+        "6": 2,
+        "7": 2,
         "imageNum": 80,
         "url": "https://drive.google.com/thumbnail?id=1dvo9SjsVd6ca6a5jVc0TrP6tO2k9Z6hp&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Борис Житков"
     },
     {
@@ -8602,9 +9044,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 343,
         "url": "https://drive.google.com/thumbnail?id=1ITKsmCL5rA3VYTxKriRa_73m3mbuLYkZ&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Марина Швец"
     },
     {
@@ -8613,9 +9057,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 104,
         "url": "https://drive.google.com/thumbnail?id=1lZ4ny-mRxtXa3pMYKgFwJnVvazeTRk9y&sz=w595",
-        "middleK": "0.600",
+        "middleK": "1.143",
         "author": "Екатерина Нестерова"
     },
     {
@@ -8624,9 +9070,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 69,
         "url": "https://drive.google.com/thumbnail?id=1nXun6asDv5AqG4Xv6GZigc3UrNSBx8Oj&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Даниил Попов"
     },
     {
@@ -8635,9 +9083,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 103,
         "url": "https://drive.google.com/thumbnail?id=1Q2z_DcwWBebMolo9PNUA7OGLOfElErv8&sz=w595",
-        "middleK": "2.200",
+        "middleK": "2.000",
         "author": "Полина Вахлева"
     },
     {
@@ -8646,9 +9096,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 84,
         "url": "https://drive.google.com/thumbnail?id=1zskomwb5u5QOBH9NrlS6evmSXWnIDNDm&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Белоусова Екатерина"
     },
     {
@@ -8657,9 +9109,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 550,
         "url": "https://drive.google.com/thumbnail?id=1oaZX3kaX6x-WufuAsO1uFq3Ix-be1VTs&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Дмитрий Синявский"
     },
     {
@@ -8668,9 +9122,11 @@ const result2 = [
         "3": 0,
         "4": 3,
         "5": 2,
+        "6": 0,
+        "7": 0,
         "imageNum": 99,
         "url": "https://drive.google.com/thumbnail?id=1ZLUETYMCfxordcPKgoaYlrlCwqCnV9Wv&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.143",
         "author": "Голушко Анастасия"
     },
     {
@@ -8679,9 +9135,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 37,
         "url": "https://drive.google.com/thumbnail?id=1jI7qqZGyx-BvMWvzz9rDcPDReuyWOfSM&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Andreas Panayi"
     },
     {
@@ -8690,9 +9148,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 335,
         "url": "https://drive.google.com/thumbnail?id=1Czm-sscmltVZHaD-ROjHi8VzYL78F4Ce&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Натали Матвеева"
     },
     {
@@ -8701,9 +9161,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 88,
         "url": "https://drive.google.com/thumbnail?id=1YBVnA1BmhelfoPbcumDv3WrRVlep_hZS&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Софья Сорокина"
     },
     {
@@ -8712,9 +9174,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 369,
         "url": "https://drive.google.com/thumbnail?id=1kNXQiKUu3zeEC-H7dPwhIcM3wCoAouKN&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "Jie-Fei Yang"
     },
     {
@@ -8723,9 +9187,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 2,
         "imageNum": 120,
         "url": "https://drive.google.com/thumbnail?id=1OMZpkkK2OnE2U4pF96NU7zfCHRRQhdfl&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Pavel Pisklakov"
     },
     {
@@ -8734,9 +9200,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 563,
         "url": "https://drive.google.com/thumbnail?id=1QgvSZh1OCoEpxCfnyUUXUjvyesUkfmqw&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Устапасиди"
     },
     {
@@ -8745,9 +9213,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 501,
         "url": "https://drive.google.com/thumbnail?id=1VXl2vWuFI9ox-njP6oyBaIKxpGua4W3L&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Irina Tall"
     },
     {
@@ -8756,9 +9226,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 98,
         "url": "https://drive.google.com/thumbnail?id=1wcsV1PN4LDaX1va3xCKnRS79Kz8ytlrX&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Надежда Фоминых"
     },
     {
@@ -8767,9 +9239,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 301,
         "url": "https://drive.google.com/thumbnail?id=1rBY8ZbtqM5HTEJcVcV5LbNBwIRSGdY1v&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.571",
         "author": "Татьяна Рузанова"
     },
     {
@@ -8778,6 +9252,8 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 503,
         "url": "https://drive.google.com/thumbnail?id=15WRQbtrA5uHOcOOgqOx4JsShUbtoljxG&sz=w595",
         "middleK": "2.000",
@@ -8789,9 +9265,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 341,
         "url": "https://drive.google.com/thumbnail?id=1fFwrBXdAX7rWJXkSVS1kFhFCTSJzy4sH&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Дарья Борисова"
     },
     {
@@ -8800,9 +9278,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 322,
         "url": "https://drive.google.com/thumbnail?id=1sc13B_0CXPMp2RaE4NFE5vZ65fnvO1tJ&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Зырянова Александра"
     },
     {
@@ -8811,9 +9291,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 362,
         "url": "https://drive.google.com/thumbnail?id=1YDl_y43R0NmH3TuKbk4IhYoi36ymha6I&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Милана Сохт"
     },
     {
@@ -8822,9 +9304,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 22,
         "url": "https://drive.google.com/thumbnail?id=13uwXEuYR4ZGwNHkBvGcTxgvBPrEVESek&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "JiaNing Song"
     },
     {
@@ -8833,9 +9317,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 508,
         "url": "https://drive.google.com/thumbnail?id=1E1f8sF2ogdndmAJsVyWbKMmF0W2vvDmq&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.429",
         "author": "QiHe"
     },
     {
@@ -8844,9 +9330,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 1,
+        "6": 0,
+        "7": 2,
         "imageNum": 132,
         "url": "https://drive.google.com/thumbnail?id=1e5DjvDFZDBaZNmLZfrYQb1SL8uemD3zV&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Resul AY"
     },
     {
@@ -8855,6 +9343,8 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 511,
         "url": "https://drive.google.com/thumbnail?id=18uRNcL3xanQX9klQiOkCDuVPapemlEON&sz=w595",
         "middleK": "2.000",
@@ -8866,9 +9356,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 359,
         "url": "https://drive.google.com/thumbnail?id=1P8W9yoa33qLcy_LOEWobBgfiN5ewHXF9&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.143",
         "author": "Женя Щербакова"
     },
     {
@@ -8877,9 +9369,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 321,
         "url": "https://drive.google.com/thumbnail?id=1RrhP8mbp_2jspTADA9n5UsYaSbwRZwjS&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Зырянова Александра"
     },
     {
@@ -8888,9 +9382,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 532,
         "url": "https://drive.google.com/thumbnail?id=1ynmHx02VSIej5QK2k6k2Qi3EwCIXNxr_&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Yawen Yao"
     },
     {
@@ -8899,9 +9395,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 60,
         "url": "https://drive.google.com/thumbnail?id=1Uv-PIKc6sjKhOFa3MtqRonaBx9LQMm5t&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Маргарита Маркова"
     },
     {
@@ -8910,9 +9408,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 513,
         "url": "https://drive.google.com/thumbnail?id=19XzVReQij_YthHiysr1wKtQPLOwe9PQF&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Xuwei Zhang"
     },
     {
@@ -8921,9 +9421,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 89,
         "url": "https://drive.google.com/thumbnail?id=1XDhuBHY6m43agHb8CuvtarmS2XHpPRYu&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Натали Матвеева"
     },
     {
@@ -8932,9 +9434,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 303,
         "url": "https://drive.google.com/thumbnail?id=1SBlkRQKQXyXUxEYmBRTx1HE85wc9Zq30&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Yibiao Qin"
     },
     {
@@ -8943,9 +9447,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 305,
         "url": "https://drive.google.com/thumbnail?id=138chsFhZaOvEhZGmmMcGHJyH65uR6ar-&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "xuran zhang"
     },
     {
@@ -8954,9 +9460,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 0,
+        "6": 3,
+        "7": 2,
         "imageNum": 535,
         "url": "https://drive.google.com/thumbnail?id=17MBOGmXhHC4_wOeBgAWJ72Ef3k6wGQyd&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "元一设计"
     },
     {
@@ -8965,9 +9473,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 25,
         "url": "https://drive.google.com/thumbnail?id=10aDWXp3FBX6eR0W5f2mBueK46tVz_QVZ&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.857",
         "author": "Zhang He"
     },
     {
@@ -8976,9 +9486,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 2,
+        "6": 0,
+        "7": 2,
         "imageNum": 373,
         "url": "https://drive.google.com/thumbnail?id=1RGf9iPVpyCIs1bUBomognyDqJnMgmpFl&sz=w595",
-        "middleK": "0.800",
+        "middleK": "0.857",
         "author": "Cardona"
     },
     {
@@ -8987,9 +9499,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 85,
         "url": "https://drive.google.com/thumbnail?id=1KW0vM86tlP3uLwVEimJdnaBDWtK1VnuC&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Белоусова Екатерина"
     },
     {
@@ -8998,9 +9512,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 538,
         "url": "https://drive.google.com/thumbnail?id=1OuEY0S-icNkekqKhpZKRVEmIOlGeXjwA&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.143",
         "author": "Akram Mokhber"
     },
     {
@@ -9009,9 +9525,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 370,
         "url": "https://drive.google.com/thumbnail?id=1CqxBlOJ3auleoLdHN-9O_6waKD8ZdyFl&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Wei-Chih, Liu"
     },
     {
@@ -9020,9 +9538,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 141,
         "url": "https://drive.google.com/thumbnail?id=1a6fXON6vR_Rgbe2cif_-g7fdKFkxYxZy&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "DR. MAHIMA GUPTA"
     },
     {
@@ -9031,9 +9551,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 0,
+        "6": 3,
+        "7": 1,
         "imageNum": 311,
         "url": "https://drive.google.com/thumbnail?id=1ncMQn7dW2IhBwMfAXd9MLPl04erpR39Z&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.286",
         "author": "Yongqi Chou"
     },
     {
@@ -9042,9 +9564,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 330,
         "url": "https://drive.google.com/thumbnail?id=1ESvm9HX7qYHE7UCRNPdsWO41EgyTJg6U&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.714",
         "author": "Сёмкина Дарья"
     },
     {
@@ -9053,9 +9577,11 @@ const result2 = [
         "3": 3,
         "4": 2,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 1,
         "url": "https://drive.google.com/thumbnail?id=1Wmw-vKmetbOS9iq5lOYwP2izwXS3_pp4&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Katarina Nikic"
     },
     {
@@ -9064,9 +9590,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 364,
         "url": "https://drive.google.com/thumbnail?id=1zc4PX8GE07k5pv52nUUDg5gMv8aGHYYy&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "Pavel Pisklakov"
     },
     {
@@ -9075,9 +9603,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 506,
         "url": "https://drive.google.com/thumbnail?id=1YRD7caBCY8gB6-yFPbUdMvY-l8RerOAv&sz=w595",
-        "middleK": "2.000",
+        "middleK": "2.143",
         "author": "Fan Yu"
     },
     {
@@ -9086,9 +9616,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 540,
         "url": "https://drive.google.com/thumbnail?id=1hl7CBTmhtGn9UNZwze1672ssfrGhIRKd&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.429",
         "author": "Katsuya Kawahira"
     },
     {
@@ -9097,9 +9629,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 97,
         "url": "https://drive.google.com/thumbnail?id=1cJp-LKQv1eoc3K-vhCt7wEWcnOXCgWBF&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.429",
         "author": "Ульяна Девяткина"
     },
     {
@@ -9108,9 +9642,11 @@ const result2 = [
         "3": 2,
         "4": 3,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 567,
         "url": "https://drive.google.com/thumbnail?id=1jkWUucx_gahQrCGglh3zOlS2TfIKDyQm&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Eduard Cehovin"
     },
     {
@@ -9119,9 +9655,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 91,
         "url": "https://drive.google.com/thumbnail?id=16N7eLS0QgiAmb4u5ZzIoRdH1p1RfT6G5&sz=w595",
-        "middleK": "1.200",
+        "middleK": "0.857",
         "author": "Дмитрий Синявский"
     },
     {
@@ -9130,9 +9668,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 575,
         "url": "https://drive.google.com/thumbnail?id=1En5nVHDB3AxZXpNgKEFawP8qwHC4s0gL&sz=w595",
-        "middleK": "1.600",
+        "middleK": "2.000",
         "author": "Елена Коренева"
     },
     {
@@ -9141,9 +9681,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 2,
         "imageNum": 555,
         "url": "https://drive.google.com/thumbnail?id=1wqiHS3iY7DbABaQq_-W37SBEFubOBCKx&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Ирина Кузнецова"
     },
     {
@@ -9152,9 +9694,11 @@ const result2 = [
         "3": 1,
         "4": 1,
         "5": 2,
+        "6": 3,
+        "7": 2,
         "imageNum": 510,
         "url": "https://drive.google.com/thumbnail?id=1xfbM8UZr0-TGffr_wDTGV_e9OfFi9Foc&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.286",
         "author": "ZHUO LI"
     },
     {
@@ -9163,9 +9707,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 3,
+        "7": 0,
         "imageNum": 314,
         "url": "https://drive.google.com/thumbnail?id=1z1HgrqMSvymy4JaWTrtXPwit45HlIInr&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Daniel Meier"
     },
     {
@@ -9174,9 +9720,11 @@ const result2 = [
         "3": 2,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 29,
         "url": "https://drive.google.com/thumbnail?id=1Atou7bH3PZIv6j59l8IVJXf4sbvGKmws&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "Yongqi Chou"
     },
     {
@@ -9185,9 +9733,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 1,
+        "6": 3,
+        "7": 3,
         "imageNum": 574,
         "url": "https://drive.google.com/thumbnail?id=1xt1StYC19J0nc2_Xw-u21BcQe2EBb0CX&sz=w595",
-        "middleK": "0.800",
+        "middleK": "1.429",
         "author": "Антон Шлёнкин"
     },
     {
@@ -9196,9 +9746,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 525,
         "url": "https://drive.google.com/thumbnail?id=1ENHTvg9YkmlHaLk4Y1p-J0UtcC-ATiVQ&sz=w595",
-        "middleK": "2.400",
+        "middleK": "2.429",
         "author": "SHUYING HUANG"
     },
     {
@@ -9207,9 +9759,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 543,
         "url": "https://drive.google.com/thumbnail?id=15v5D-cUjnBLeg_vCFJlEwMg-V9EGYcAT&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Luis Antonio Rivera Rodriguez"
     },
     {
@@ -9218,9 +9772,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 86,
         "url": "https://drive.google.com/thumbnail?id=1KRAS59HFdg-ZjwjiOPdDwKb9AGw-hTBo&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Михаил Злобин"
     },
     {
@@ -9229,9 +9785,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 318,
         "url": "https://drive.google.com/thumbnail?id=1jYkKGXI8KDSjBaNgWRubtIK0v7Wi1vy8&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "LILIA LUJÁN"
     },
     {
@@ -9240,9 +9798,11 @@ const result2 = [
         "3": 0,
         "4": 2,
         "5": 0,
+        "6": 0,
+        "7": 2,
         "imageNum": 372,
         "url": "https://drive.google.com/thumbnail?id=14spW9DmHkZI_nVIoF82fGBWO7JT5ZYm_&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.286",
         "author": "Zeliha Begüm Aydın"
     },
     {
@@ -9251,9 +9811,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 2,
+        "7": 0,
         "imageNum": 145,
         "url": "https://drive.google.com/thumbnail?id=1Huf-SuFPiSWDTTcmbIHEzjzw7B1WjvFi&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.429",
         "author": "Антон Шлёнкин"
     },
     {
@@ -9262,9 +9824,11 @@ const result2 = [
         "3": 1,
         "4": 3,
         "5": 0,
+        "6": 2,
+        "7": 3,
         "imageNum": 52,
         "url": "https://drive.google.com/thumbnail?id=1fTkjWpm_1pjEjs2T7r-T6ZGvVzpOnBj5&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.714",
         "author": "Luis Antonio Rivera Rodriguez"
     },
     {
@@ -9273,9 +9837,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 3,
         "imageNum": 332,
         "url": "https://drive.google.com/thumbnail?id=1OdvjNHeb7G-TnaookORtmgLi5gxGdbTg&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Мария Макеенко"
     },
     {
@@ -9284,9 +9850,11 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 3,
         "imageNum": 114,
         "url": "https://drive.google.com/thumbnail?id=1BCf3ZAfiwN0yF-oh2-95L0L9JWGSAz_r&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.143",
         "author": "Анастасия Осипова"
     },
     {
@@ -9295,9 +9863,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 14,
         "url": "https://drive.google.com/thumbnail?id=1Cg3GQNz4hUroQiu1NjwzvYRTc-Nyk4W5&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.000",
         "author": "Chuang Qiao"
     },
     {
@@ -9306,9 +9876,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 371,
         "url": "https://drive.google.com/thumbnail?id=1zdyYPkMEVk1zsgJlApH9mQDeArp_pbcU&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.286",
         "author": "Oktay Barkın"
     },
     {
@@ -9317,9 +9889,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 50,
         "url": "https://drive.google.com/thumbnail?id=1BdRlIwwz9299YbowfrYztey9uso5Bx7Y&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Abulqasim Najah"
     },
     {
@@ -9328,9 +9902,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 0,
         "imageNum": 95,
         "url": "https://drive.google.com/thumbnail?id=1u9ri_-ZKdJumag7NoLTjk293RRzN1Y0W&sz=w595",
-        "middleK": "1.200",
+        "middleK": "0.857",
         "author": "Залогина Наталья"
     },
     {
@@ -9339,9 +9915,11 @@ const result2 = [
         "3": 3,
         "4": 3,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 126,
         "url": "https://drive.google.com/thumbnail?id=12TfoX7IWV1E3C2DpT81WC9bR_OWlbqV8&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Liu Guan Chen"
     },
     {
@@ -9350,9 +9928,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 562,
         "url": "https://drive.google.com/thumbnail?id=1jNItQDh6bymXbk253qaZtUi_MDAsAlVu&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.000",
         "author": "Софья Пантелеева"
     },
     {
@@ -9361,6 +9941,8 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 0,
+        "7": 0,
         "imageNum": 360,
         "url": "https://drive.google.com/thumbnail?id=1Wue1JemrXljmvLk90ep7Ap-OycCnc0fE&sz=w595",
         "middleK": "0.000",
@@ -9372,6 +9954,8 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 561,
         "url": "https://drive.google.com/thumbnail?id=18Zsf4ixeqDwlH0sQgYTJZkxMps-ZGyjn&sz=w595",
         "middleK": "2.000",
@@ -9383,9 +9967,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 2,
         "imageNum": 90,
         "url": "https://drive.google.com/thumbnail?id=1YspWHHgRn814ONqMMBZX123YvnF_-AVC&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.571",
         "author": "Ксения Первушева"
     },
     {
@@ -9394,9 +9980,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 1,
+        "6": 3,
+        "7": 1,
         "imageNum": 21,
         "url": "https://drive.google.com/thumbnail?id=170GRMuJNfDlngEle5dotIXsFqObnYSzK&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.571",
         "author": "JiaNing Song"
     },
     {
@@ -9405,9 +9993,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 1,
         "imageNum": 568,
         "url": "https://drive.google.com/thumbnail?id=1JycLsy3F7blw5XQUOAdGWRrbyXf9M-IL&sz=w595",
-        "middleK": "1.600",
+        "middleK": "1.714",
         "author": "Chang, Fang-Pang"
     },
     {
@@ -9416,9 +10006,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 3,
+        "6": 3,
+        "7": 1,
         "imageNum": 519,
         "url": "https://drive.google.com/thumbnail?id=1JFQBGS_ZPslhzDWCn-DJJaDZMsZH8qZQ&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.857",
         "author": "Chen Jie"
     },
     {
@@ -9427,9 +10019,11 @@ const result2 = [
         "3": 2,
         "4": 1,
         "5": 2,
+        "6": 2,
+        "7": 3,
         "imageNum": 33,
         "url": "https://drive.google.com/thumbnail?id=1M5IEDoITCpRYrOMlWNF0TX_qTULXOES5&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.429",
         "author": "Xujie Lyu"
     },
     {
@@ -9438,9 +10032,11 @@ const result2 = [
         "3": 0,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 3,
         "imageNum": 119,
         "url": "https://drive.google.com/thumbnail?id=1vsMXRZPPeBJQyF9f2N6WBsoHSs69eGBN&sz=w595",
-        "middleK": "0.600",
+        "middleK": "0.857",
         "author": "Морозова Ольга"
     },
     {
@@ -9449,9 +10045,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 306,
         "url": "https://drive.google.com/thumbnail?id=1S6OyZS37piE7jTMstyYxAxDkHYivWBij&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Jack Fu"
     },
     {
@@ -9460,9 +10058,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 3,
+        "7": 0,
         "imageNum": 43,
         "url": "https://drive.google.com/thumbnail?id=1QHP5siQdRDprCdmII3ZXORAJ9etAtQra&sz=w595",
-        "middleK": "1.800",
+        "middleK": "1.714",
         "author": "Hossein Abdi"
     },
     {
@@ -9471,9 +10071,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 0,
+        "7": 1,
         "imageNum": 337,
         "url": "https://drive.google.com/thumbnail?id=1dwOF6X-Z6NzFEt81lp69ZPQPYcyI_uw3&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.000",
         "author": "Дмитрий Синявский"
     },
     {
@@ -9482,9 +10084,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 0,
         "imageNum": 307,
         "url": "https://drive.google.com/thumbnail?id=1GwRrmV2rqBXemlKF3Plk_f_EbmnHpabz&sz=w595",
-        "middleK": "1.600"
+        "middleK": "1.571"
     },
     {
         "1": 3,
@@ -9492,9 +10096,11 @@ const result2 = [
         "3": 3,
         "4": 0,
         "5": 3,
+        "6": 2,
+        "7": 3,
         "imageNum": 122,
         "url": "https://drive.google.com/thumbnail?id=1044NwkMJnmBaTasBq4oIwSQUKLImnGF4&sz=w595",
-        "middleK": "1.800",
+        "middleK": "2.000",
         "author": "Pavel Pisklakov"
     },
     {
@@ -9503,9 +10109,11 @@ const result2 = [
         "3": 0,
         "4": 1,
         "5": 3,
+        "6": 0,
+        "7": 2,
         "imageNum": 537,
         "url": "https://drive.google.com/thumbnail?id=1yYOt5c6Wo0JO1_5N0ooNuoEyk5fsxFkp&sz=w595",
-        "middleK": "0.800",
+        "middleK": "0.857",
         "author": "Татьяна Талабанова, Инна Шмоль, Анна Петрачук"
     },
     {
@@ -9514,9 +10122,11 @@ const result2 = [
         "3": 1,
         "4": 0,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 56,
         "url": "https://drive.google.com/thumbnail?id=19SarjNYEh9a0yzV2uBNA2PKF2-trVN1F&sz=w595",
-        "middleK": "1.000",
+        "middleK": "1.571",
         "author": "Ulises Ortiz Castillo"
     },
     {
@@ -9525,9 +10135,11 @@ const result2 = [
         "3": 2,
         "4": 2,
         "5": 2,
+        "6": 3,
+        "7": 3,
         "imageNum": 143,
         "url": "https://drive.google.com/thumbnail?id=1NsqqBT8ySsFmujFZS77GrLvUpVTfZvcF&sz=w595",
-        "middleK": "1.200",
+        "middleK": "1.714",
         "author": "Бельчикова Марта"
     },
     {
@@ -9536,12 +10148,14 @@ const result2 = [
         "3": 3,
         "4": 1,
         "5": 2,
+        "6": 2,
+        "7": 1,
         "imageNum": 11,
         "url": "https://drive.google.com/thumbnail?id=1yQIz47q2bMc9lu64MfXnRhOsJbHs3fvX&sz=w595",
-        "middleK": "1.400",
+        "middleK": "1.429",
         "author": "Fan Yu"
     }
-]
+];
 
 const headers = [
     { label: "Image Num", key: "imageNum" },
@@ -9552,6 +10166,8 @@ const headers = [
     { label: "3", key: "3" },
     { label: "4", key: "4" },
     { label: "5", key: "5" },
+    { label: "6", key: "6" },
+    { label: "7", key: "7" },
     { label: "Middle K", key: "middleK" },
 
 ];
@@ -14759,8 +15375,8 @@ const constants = {
     "chipper24_brisker@icloud.com": 3,
     "nellykamaeva@gmail.com": 4,
     "jilkina-e@yandex.ru": 5,
-    // "i.goryacheva@gmail.com": 6,
-    // "iul.ratnikova@gmail.com": 7,
+    "iul.ratnikova@gmail.com": 6,
+    "dianakaraganova@gmail.com": 7,
     // "jilkina@gmail.com": 8,
     // "rslone@uark.edu": 9,
     // "svishnakov@gmail.com": 10,
@@ -14793,8 +15409,8 @@ function TotalPage() {
         { field: "3", width: 40, },
         { field: "4", width: 40, },
         { field: "5", width: 40, },
-        // { field: "6", width: 40, },
-        // { field: "7", width: 40, },
+        { field: "6", width: 40, },
+        { field: "7", width: 40, },
         // { field: "8", width: 40, },
         // { field: "9", width: 40, },
         // { field: "10", width: 50, },
@@ -14865,7 +15481,7 @@ function TotalPage() {
     }
 
     useEffect(() => {
-        addAuthor(result)
+        // addAuthor(result2)
     }, [])
 
     useEffect(() => {
@@ -14901,7 +15517,7 @@ function TotalPage() {
                         // obj[likeInfo.email] = likeInfo.value;
                         // array.push({ id: doc.id, ...doc.data() })
                     })
-                    const middleK = (obj[1] + obj[2] + obj[3] + obj[4] + obj[5]) / 5;
+                    const middleK = (obj[1] + obj[2] + obj[3] + obj[4] + obj[5] + obj[6] + obj[7]) / 7;
                     console.log('================== after changes', obj);
                     console.log('after changes with middleK', { ...obj, middleK: middleK.toFixed(3) });
                     arrayRows.push({ ...obj, middleK: middleK.toFixed(3) });
@@ -14919,6 +15535,7 @@ function TotalPage() {
 
             console.log("finished arrayRows", arrayRows);
 
+            addAuthor(arrayRows);
             // console.log("after arrayRows", arrayRows);
 
             // const q = query(likesRef, where('imageNum', '==', images[0].num), orderBy("createBy", 'desc'));
@@ -15034,6 +15651,14 @@ function TotalPage() {
         <div style={{display: "flex"}}>
             <div style={{width: "300px"}}> jilkina-e@yandex.ru</div>
             <div> {constants["jilkina-e@yandex.ru"]} </div>
+        </div>
+        <div style={{display: "flex"}}>
+            <div style={{width: "300px"}}> iul.ratnikova@gmail.com</div>
+            <div> {constants["iul.ratnikova@gmail.com"]} </div>
+        </div>
+        <div style={{display: "flex"}}>
+            <div style={{width: "300px"}}> dianakaraganova@gmail.com</div>
+            <div> {constants["dianakaraganova@gmail.com"]} </div>
         </div>
         <br/>
             <CSVLink data={result2} headers={headers}>
